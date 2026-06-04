@@ -1,0 +1,66 @@
+*.zip
+*.jar
+
+# OS generated files #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and editor files #
+.vscode/
+.idea/
+.antigravitycli/
+*.iml
+*.sublime-project
+*.sublime-workspace
+*.bak
+*~
+
+# Stuff #
+__pycache__/
+.venv/
+node_modules/
+.beet_cache/
+
+# Stuff #
+*.psd
+*.xcf
+*.kra
+*.pdn
+*.ase
+*.aseprite
+*.ai
+
+# 3D stuff #
+*.blend
+*.blend1
+*.bbmodel
+
+# Audio and video files #
+*.aup3
+*.wav
+*.flac
+*.mp3
+*.mp4
+*.mkv
+*.prproj
+*.aep
+
+# filter mc junk #
+*.dat
+level.dat_old
+session.lock
+region/
+entities/
+poi/
+playerdata/
+stats/
+
+# Allowed #
+# *.nbt
+# *.png, *.ogg, *.json, *.properties
