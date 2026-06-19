@@ -1,5 +1,6 @@
 {
 	"textures": {
+		"particle": "#a",
 		"a": "block/light_blue_concrete",
 		"b": "block/blue_concrete"
 	},

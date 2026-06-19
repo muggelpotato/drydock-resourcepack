@@ -1,5 +1,6 @@
 {
 	"textures": {
+		"particle": "#a",
 		"a": "block/blue_stained_glass"
 	},
 	"elements": [

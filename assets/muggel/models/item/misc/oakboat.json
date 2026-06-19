@@ -68263,6 +68263,7 @@
         }
     ],
     "textures": {
+        "particle": "#a",
         "f": "block/mangrove_log",
         "d": "block/oak_planks",
         "c": "block/spruce_planks",

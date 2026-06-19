@@ -1,5 +1,6 @@
 {
 	"textures": {
+		"particle": "#a",
 		"h": "block/smooth_stone_slab_side",
 		"c": "block/mangrove_trapdoor",
 		"y": "block/anvil_top",
