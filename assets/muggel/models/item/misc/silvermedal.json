@@ -1,6 +1,5 @@
 {
 	"textures": {
-		"particle": "minecraft:item/transparent",
 		"b": "block/lodestone_top",
 		"c": "block/lodestone_side",
 		"a": "block/polished_andesite",

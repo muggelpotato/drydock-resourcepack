@@ -1,7 +1,4 @@
 {
-    "textures": {
-		"particle": "minecraft:item/transparent"
-	},
     "elements": [
         {
             "faces": {

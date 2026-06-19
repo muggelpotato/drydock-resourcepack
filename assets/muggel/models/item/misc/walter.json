@@ -1,6 +1,5 @@
 {
 	"textures": {
-		"particle": "minecraft:item/transparent",
 		"h": "block/smooth_stone_slab_side",
 		"c": "block/mangrove_trapdoor",
 		"y": "block/anvil_top",

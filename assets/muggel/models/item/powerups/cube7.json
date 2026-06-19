@@ -1,6 +1,5 @@
 {
 	"textures": {
-		"particle": "minecraft:item/transparent",
 		"a": "block/blue_stained_glass"
 	},
 	"elements": [

@@ -1,6 +1,5 @@
 {
 	"textures": {
-		"particle": "minecraft:item/transparent",
 		"b": "block/red_concrete",
 		"a": "block/white_concrete"
 	},

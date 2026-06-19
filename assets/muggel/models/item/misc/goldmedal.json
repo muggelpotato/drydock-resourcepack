@@ -1,6 +1,5 @@
 {
 	"textures": {
-		"particle": "minecraft:item/transparent",
 		"b": "block/bee_nest_bottom",
 		"a": "block/raw_gold_block",
 		"e": "block/gold_block",

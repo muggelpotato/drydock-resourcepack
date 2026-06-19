@@ -1,6 +1,5 @@
 {
 	"textures": {
-		"particle": "minecraft:item/transparent",
 		"c": "block/copper_grate",
 		"a": "block/copper_block",
 		"b": "block/copper_bulb"
